@@ -1,0 +1,2 @@
+Git add status
+git
